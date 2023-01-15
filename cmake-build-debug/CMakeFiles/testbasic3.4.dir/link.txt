@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -Wall -fno-builtin -Wl,--no-as-needed -ldl -pthread -g   CMakeFiles/testbasic3.4.dir/testbasic3.4.cpp.o ../libvm_app.o  -o testbasic3.4 

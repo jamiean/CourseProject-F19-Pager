@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -Wall -fno-builtin -Wl,--no-as-needed -ldl -pthread -g   CMakeFiles/pager.dir/vm_pager.cpp.o ../libvm_pager.o  -o pager 

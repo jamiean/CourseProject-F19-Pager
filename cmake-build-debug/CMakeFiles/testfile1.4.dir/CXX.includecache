@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/testfile1.4.cpp
+iostream
+-
+cstring
+-
+unistd.h
+-
+vm_app.h
+/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/vm_app.h
+
+/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/vm_app.h
+vm_arena.h
+/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/vm_arena.h
+sys/types.h
+-
+
+/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/vm_arena.h
+stdint.h
+-
+

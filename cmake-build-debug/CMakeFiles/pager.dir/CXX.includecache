@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/util.h
+vm_pager.h
+/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/vm_pager.h
+iostream
+-
+unordered_map
+-
+vector
+-
+cassert
+-
+unordered_set
+-
+queue
+-
+string
+-
+typeinfo
+-
+string.h
+-
+cstdlib
+-
+
+/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/vm_arena.h
+stdint.h
+-
+
+/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/vm_pager.cpp
+util.h
+/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/util.h
+
+/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/vm_pager.h
+sys/types.h
+-
+vm_arena.h
+/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/vm_arena.h
+

@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -Wall -fno-builtin -Wl,--no-as-needed -ldl -pthread -g   CMakeFiles/testSwitch3.4.dir/testSwitch3.4.cpp.o ../libvm_app.o  -o testSwitch3.4 

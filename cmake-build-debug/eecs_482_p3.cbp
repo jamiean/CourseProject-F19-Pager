@@ -1,0 +1,1023 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="eecs_482_p3"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testSwitch3.4">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testSwitch3.4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testSwitch3.4"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testSwitch3.4/fast">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testSwitch3.4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testSwitch3.4/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testSwitch2.4">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testSwitch2.4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testSwitch2.4"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testSwitch2.4/fast">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testSwitch2.4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testSwitch2.4/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testFUnrefClean.4">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testFUnrefClean.4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testFUnrefClean.4"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testFUnrefClean.4/fast">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testFUnrefClean.4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testFUnrefClean.4/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testbasic3.4">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testbasic3.4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testbasic3.4"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testbasic3.4/fast">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testbasic3.4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testbasic3.4/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testbasic4.4">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testbasic4.4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testbasic4.4"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testbasic4.4/fast">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testbasic4.4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testbasic4.4/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pager">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/pager" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 pager"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="pager/fast">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/pager" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 pager/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testspec">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testspec" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testspec"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testspec/fast">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testspec" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testspec/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testbasic1.4">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testbasic1.4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testbasic1.4"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testbasic1.4/fast">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testbasic1.4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testbasic1.4/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testSUnrefDir.4.cpp">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testSUnrefDir.4.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testSUnrefDir.4.cpp"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testSUnrefDir.4.cpp/fast">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testSUnrefDir.4.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testSUnrefDir.4.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testSEvi">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testSEvi" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testSEvi"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testSEvi/fast">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testSEvi" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testSEvi/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testbasic2.4">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testbasic2.4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testbasic2.4"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testbasic2.4/fast">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testbasic2.4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testbasic2.4/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testSResDir.4.cpp">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testSResDir.4.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testSResDir.4.cpp"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testSResDir.4.cpp/fast">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testSResDir.4.cpp" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testSResDir.4.cpp/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testSResClean">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testSResClean" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testSResClean"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testSResClean/fast">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testSResClean" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testSResClean/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testFUnrefDirty">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testFUnrefDirty" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testFUnrefDirty"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testFUnrefDirty/fast">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testFUnrefDirty" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testFUnrefDirty/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testSwitch1.4">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testSwitch1.4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testSwitch1.4"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testSwitch1.4/fast">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testSwitch1.4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testSwitch1.4/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testFResClean">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testFResClean" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testFResClean"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testFResClean/fast">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testFResClean" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testFResClean/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testFUnrefClean">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testFUnrefClean" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testFUnrefClean"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testFUnrefClean/fast">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testFUnrefClean" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testFUnrefClean/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testfile1.4">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testfile1.4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testfile1.4"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testfile1.4/fast">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testfile1.4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testfile1.4/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testSUnrefClean.4">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testSUnrefClean.4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testSUnrefClean.4"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="testSUnrefClean.4/fast">
+				<Option output="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/testSUnrefClean.4" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/usr/include/c++/7"/>
+					<Add directory="/usr/include/x86_64-linux-gnu/c++/7"/>
+					<Add directory="/usr/include/c++/7/backward"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/lib/gcc/x86_64-linux-gnu/7/include-fixed"/>
+					<Add directory="/usr/include/x86_64-linux-gnu"/>
+					<Add directory="/usr/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 testSUnrefClean.4/fast"/>
+					<CompileFile command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j16 -f &quot;/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/libvm_app.o">
+			<Option target="testSwitch3.4"/>
+			<Option target="testSwitch2.4"/>
+			<Option target="testFUnrefClean.4"/>
+			<Option target="testbasic3.4"/>
+			<Option target="testbasic4.4"/>
+			<Option target="testspec"/>
+			<Option target="testbasic1.4"/>
+			<Option target="testSUnrefDir.4.cpp"/>
+			<Option target="testSEvi"/>
+			<Option target="testbasic2.4"/>
+			<Option target="testSResDir.4.cpp"/>
+			<Option target="testSResClean"/>
+			<Option target="testFUnrefDirty"/>
+			<Option target="testSwitch1.4"/>
+			<Option target="testFResClean"/>
+			<Option target="testFUnrefClean"/>
+			<Option target="testfile1.4"/>
+			<Option target="testSUnrefClean.4"/>
+		</Unit>
+		<Unit filename="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/libvm_pager.o">
+			<Option target="pager"/>
+		</Unit>
+		<Unit filename="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/testFResClean.4.cpp">
+			<Option target="testFResClean"/>
+		</Unit>
+		<Unit filename="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/testFUnrefClean.4.cpp">
+			<Option target="testFUnrefClean.4"/>
+			<Option target="testFUnrefClean"/>
+		</Unit>
+		<Unit filename="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/testFUnrefDirty.4.cpp">
+			<Option target="testFUnrefDirty"/>
+		</Unit>
+		<Unit filename="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/testSEvi.4.cpp">
+			<Option target="testSEvi"/>
+		</Unit>
+		<Unit filename="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/testSResClean.4.cpp">
+			<Option target="testSResClean"/>
+		</Unit>
+		<Unit filename="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/testSResDir.4.cpp">
+			<Option target="testSResDir.4.cpp"/>
+		</Unit>
+		<Unit filename="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/testSUnrefClean.4.cpp">
+			<Option target="testSUnrefClean.4"/>
+		</Unit>
+		<Unit filename="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/testSUnrefDir.4.cpp">
+			<Option target="testSUnrefDir.4.cpp"/>
+		</Unit>
+		<Unit filename="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/testSwitch1.4.cpp">
+			<Option target="testSwitch1.4"/>
+		</Unit>
+		<Unit filename="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/testSwitch2.4.cpp">
+			<Option target="testSwitch2.4"/>
+		</Unit>
+		<Unit filename="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/testSwitch3.4.cpp">
+			<Option target="testSwitch3.4"/>
+		</Unit>
+		<Unit filename="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/testbasic1.4.cpp">
+			<Option target="testbasic1.4"/>
+		</Unit>
+		<Unit filename="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/testbasic2.4.cpp">
+			<Option target="testbasic2.4"/>
+		</Unit>
+		<Unit filename="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/testbasic3.4.cpp">
+			<Option target="testbasic3.4"/>
+		</Unit>
+		<Unit filename="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/testbasic4.4.cpp">
+			<Option target="testbasic4.4"/>
+		</Unit>
+		<Unit filename="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/testfile1.4.cpp">
+			<Option target="testfile1.4"/>
+		</Unit>
+		<Unit filename="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/testspec.4.cpp">
+			<Option target="testspec"/>
+		</Unit>
+		<Unit filename="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/vm_app.h">
+			<Option target="testSwitch3.4"/>
+			<Option target="testSwitch2.4"/>
+			<Option target="testFUnrefClean.4"/>
+			<Option target="testbasic3.4"/>
+			<Option target="testbasic4.4"/>
+			<Option target="testspec"/>
+			<Option target="testbasic1.4"/>
+			<Option target="testSUnrefDir.4.cpp"/>
+			<Option target="testSEvi"/>
+			<Option target="testbasic2.4"/>
+			<Option target="testSResDir.4.cpp"/>
+			<Option target="testSResClean"/>
+			<Option target="testFUnrefDirty"/>
+			<Option target="testSwitch1.4"/>
+			<Option target="testFResClean"/>
+			<Option target="testFUnrefClean"/>
+			<Option target="testfile1.4"/>
+			<Option target="testSUnrefClean.4"/>
+		</Unit>
+		<Unit filename="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/vm_arena.h">
+			<Option target="pager"/>
+		</Unit>
+		<Unit filename="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/vm_pager.cpp">
+			<Option target="pager"/>
+		</Unit>
+		<Unit filename="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/vm_pager.h">
+			<Option target="pager"/>
+		</Unit>
+		<Unit filename="/home/ziqi/code/eecs_482/jamiean.jasonxu.ziqizh.3/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

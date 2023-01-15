@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -Wall -fno-builtin -Wl,--no-as-needed -ldl -pthread -g   CMakeFiles/testSUnrefDir.4.cpp.dir/testSUnrefDir.4.cpp.o ../libvm_app.o  -o testSUnrefDir.4.cpp 

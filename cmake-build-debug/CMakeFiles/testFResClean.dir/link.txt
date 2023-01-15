@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -Wall -fno-builtin -Wl,--no-as-needed -ldl -pthread -g   CMakeFiles/testFResClean.dir/testFResClean.4.cpp.o ../libvm_app.o  -o testFResClean 

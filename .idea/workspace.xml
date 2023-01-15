@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="eecs_482_p3" targetName="testfile1.4" />
+      <config projectName="eecs_482_p3" targetName="testspec" />
+      <config projectName="eecs_482_p3" targetName="testbasic1.4" />
+      <config projectName="eecs_482_p3" targetName="testbasic2.4" />
+      <config projectName="eecs_482_p3" targetName="testbasic3.4" />
+      <config projectName="eecs_482_p3" targetName="testbasic4.4" />
+      <config projectName="eecs_482_p3" targetName="testFResClean" />
+      <config projectName="eecs_482_p3" targetName="testSUnrefDir.4.cpp" />
+      <config projectName="eecs_482_p3" targetName="testFUnrefDirty" />
+      <config projectName="eecs_482_p3" targetName="testSwitch2.4" />
+      <config projectName="eecs_482_p3" targetName="pager" />
+      <config projectName="eecs_482_p3" targetName="testSUnrefClean.4" />
+      <config projectName="eecs_482_p3" targetName="testSResDir.4.cpp" />
+      <config projectName="eecs_482_p3" targetName="testSEvi" />
+      <config projectName="eecs_482_p3" targetName="testSwitch1.4" />
+      <config projectName="eecs_482_p3" targetName="testSResClean" />
+      <config projectName="eecs_482_p3" targetName="testSwitch3.4" />
+      <config projectName="eecs_482_p3" targetName="testFUnrefClean.4" />
+      <config projectName="eecs_482_p3" targetName="testFUnrefClean" />
+    </generated>
+  </component>
+  <component name="CMakeSettings" AUTO_RELOAD="true">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="754ada2c-2787-40e2-bb94-2bbe1e2a4946" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/data1.bin" beforeDir="false" afterPath="$PROJECT_DIR$/data1.bin" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pager" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/shakespeare.txt" beforeDir="false" afterPath="$PROJECT_DIR$/shakespeare.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testFResClean" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testFUnrefClean" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testFUnrefDirty" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testFileName1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testFileName2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testFork1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testFork2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testNonEmpty1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testNonEmpty2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testNonEmpty3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testNonEmpty4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testOverFlow" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testSEvi" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testSResClean" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testSResDir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testSUnrefClean" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testSUnrefDir" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testSwitch1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testSwitch2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testSwitch3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testSwitch4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testbasic1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testbasic2" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testbasic3" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testbasic4" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testfile1" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testmultipleowner" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testspec" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/vm_pager.o" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1T4AyFrlHbmFdLQTRGdcXvMvCJU" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.pager">
+    <configuration name="pager" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="eecs_482_p3" TARGET_NAME="pager" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="eecs_482_p3" RUN_TARGET_NAME="pager">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testFResClean" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="eecs_482_p3" TARGET_NAME="testFResClean" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="eecs_482_p3" RUN_TARGET_NAME="testFResClean">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testFUnrefClean" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="eecs_482_p3" TARGET_NAME="testFUnrefClean" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="eecs_482_p3" RUN_TARGET_NAME="testFUnrefClean">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testFUnrefClean.4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="eecs_482_p3" TARGET_NAME="testFUnrefClean.4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="eecs_482_p3" RUN_TARGET_NAME="testFUnrefClean.4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testFUnrefDirty" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="eecs_482_p3" TARGET_NAME="testFUnrefDirty" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="eecs_482_p3" RUN_TARGET_NAME="testFUnrefDirty">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testSEvi" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="eecs_482_p3" TARGET_NAME="testSEvi" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="eecs_482_p3" RUN_TARGET_NAME="testSEvi">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testSResClean" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="eecs_482_p3" TARGET_NAME="testSResClean" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="eecs_482_p3" RUN_TARGET_NAME="testSResClean">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testSResDir.4.cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="eecs_482_p3" TARGET_NAME="testSResDir.4.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="eecs_482_p3" RUN_TARGET_NAME="testSResDir.4.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testSUnrefClean.4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="eecs_482_p3" TARGET_NAME="testSUnrefClean.4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="eecs_482_p3" RUN_TARGET_NAME="testSUnrefClean.4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testSUnrefDir.4.cpp" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="eecs_482_p3" TARGET_NAME="testSUnrefDir.4.cpp" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="eecs_482_p3" RUN_TARGET_NAME="testSUnrefDir.4.cpp">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testSwitch1.4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="eecs_482_p3" TARGET_NAME="testSwitch1.4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="eecs_482_p3" RUN_TARGET_NAME="testSwitch1.4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testSwitch2.4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="eecs_482_p3" TARGET_NAME="testSwitch2.4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="eecs_482_p3" RUN_TARGET_NAME="testSwitch2.4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testSwitch3.4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="eecs_482_p3" TARGET_NAME="testSwitch3.4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="eecs_482_p3" RUN_TARGET_NAME="testSwitch3.4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testbasic1.4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="eecs_482_p3" TARGET_NAME="testbasic1.4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="eecs_482_p3" RUN_TARGET_NAME="testbasic1.4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testbasic2.4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="eecs_482_p3" TARGET_NAME="testbasic2.4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="eecs_482_p3" RUN_TARGET_NAME="testbasic2.4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testbasic3.4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="eecs_482_p3" TARGET_NAME="testbasic3.4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="eecs_482_p3" RUN_TARGET_NAME="testbasic3.4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testbasic4.4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="eecs_482_p3" TARGET_NAME="testbasic4.4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="eecs_482_p3" RUN_TARGET_NAME="testbasic4.4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testfile1.4" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="eecs_482_p3" TARGET_NAME="testfile1.4" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="eecs_482_p3" RUN_TARGET_NAME="testfile1.4">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="testspec" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="eecs_482_p3" TARGET_NAME="testspec" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="eecs_482_p3" RUN_TARGET_NAME="testspec">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.pager" />
+      <item itemvalue="CMake Application.testFResClean" />
+      <item itemvalue="CMake Application.testFUnrefClean" />
+      <item itemvalue="CMake Application.testFUnrefClean.4" />
+      <item itemvalue="CMake Application.testFUnrefDirty" />
+      <item itemvalue="CMake Application.testSEvi" />
+      <item itemvalue="CMake Application.testSResClean" />
+      <item itemvalue="CMake Application.testSResDir.4.cpp" />
+      <item itemvalue="CMake Application.testSUnrefClean.4" />
+      <item itemvalue="CMake Application.testSUnrefDir.4.cpp" />
+      <item itemvalue="CMake Application.testSwitch1.4" />
+      <item itemvalue="CMake Application.testSwitch2.4" />
+      <item itemvalue="CMake Application.testSwitch3.4" />
+      <item itemvalue="CMake Application.testbasic1.4" />
+      <item itemvalue="CMake Application.testbasic2.4" />
+      <item itemvalue="CMake Application.testbasic3.4" />
+      <item itemvalue="CMake Application.testbasic4.4" />
+      <item itemvalue="CMake Application.testfile1.4" />
+      <item itemvalue="CMake Application.testspec" />
+    </list>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="754ada2c-2787-40e2-bb94-2bbe1e2a4946" name="Default Changelist" comment="" />
+      <created>1572709246055</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572709246055</updated>
+      <workItem from="1572709247260" duration="2113000" />
+      <workItem from="1573242976358" duration="13346000" />
+      <workItem from="1573337446231" duration="6000" />
+      <workItem from="1573340790339" duration="4110000" />
+      <workItem from="1573405633908" duration="4126000" />
+      <workItem from="1573518298488" duration="4242000" />
+      <workItem from="1573612414816" duration="1251000" />
+      <workItem from="1573615102710" duration="2882000" />
+      <workItem from="1573694900840" duration="6489000" />
+      <workItem from="1573704283530" duration="6000" />
+      <workItem from="1574124424946" duration="142000" />
+      <workItem from="1576381201306" duration="2536000" />
+      <workItem from="1578860998769" duration="39000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="4738" y="981" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1573410224820">
+      <screen x="4000" y="604" width="2560" height="1440" />
+    </state>
+    <state x="4738" y="981" key="#com.intellij.execution.impl.EditConfigurationsDialog/1440.604.2560.1440/4000.604.2560.1440/0.631.1440.1929@4000.604.2560.1440" timestamp="1573410224820" />
+    <state x="1024" y="541" width="722" height="390" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1573701293448">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state x="2423" y="1128" width="722" height="390" key="#com.intellij.fileTypes.FileTypeChooser/1440.604.2560.1440/4000.604.2560.1440/0.631.1440.1929@1440.604.2560.1440" timestamp="1573518578617" />
+    <state x="3543" y="524" width="600" height="390" key="#com.intellij.fileTypes.FileTypeChooser/67.27.2493.1413/2560.0.2560.1440@2560.0.2560.1440" timestamp="1573245951840" />
+    <state x="1024" y="541" key="#com.intellij.fileTypes.FileTypeChooser/67.27.2493.1413/2560.0.2560.1440@67.27.2493.1413" timestamp="1573701293448" />
+    <state x="5017" y="1087" width="515" height="472" key="EnvironmentVariablesDialog" timestamp="1573410430430">
+      <screen x="4000" y="604" width="2560" height="1440" />
+    </state>
+    <state x="5017" y="1087" width="515" height="472" key="EnvironmentVariablesDialog/1440.604.2560.1440/4000.604.2560.1440/0.631.1440.1929@4000.604.2560.1440" timestamp="1573410430430" />
+    <state x="3623" y="477" width="379" height="649" key="FileChooserDialogImpl" timestamp="1578861031673">
+      <screen x="2560" y="0" width="2560" height="1440" />
+    </state>
+    <state x="598" y="1270" width="379" height="649" key="FileChooserDialogImpl/1440.604.2560.1440/4000.604.2560.1440/0.631.1440.1929@0.631.1440.1929" timestamp="1574124560203" />
+    <state x="5063" y="1081" width="424" height="484" key="FileChooserDialogImpl/1440.604.2560.1440/4000.604.2560.1440/0.631.1440.1929@4000.604.2560.1440" timestamp="1573410441091" />
+    <state x="3623" y="477" key="FileChooserDialogImpl/2560.0.2560.1440/5120.0.2560.1440/0.27.2560.1413@2560.0.2560.1440" timestamp="1578861031673" />
+    <state width="2447" height="338" key="GridCell.Tab.0.bottom" timestamp="1573617378377">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2514" height="496" key="GridCell.Tab.0.bottom/0.631.2560.809/2560.0.2560.1440@2560.0.2560.1440" timestamp="1573258012001" />
+    <state width="2514" height="406" key="GridCell.Tab.0.bottom/1440.604.2560.1440/4000.604.2560.1440/0.631.1440.1929@1440.604.2560.1440" timestamp="1573451458557" />
+    <state width="2514" height="406" key="GridCell.Tab.0.bottom/1440.604.2560.1440/4000.604.2560.1440/0.631.1440.1929@4000.604.2560.1440" timestamp="1573410703551" />
+    <state width="2514" height="498" key="GridCell.Tab.0.bottom/67.27.2493.1413/2560.0.2560.1440@2560.0.2560.1440" timestamp="1573247307988" />
+    <state width="2447" height="338" key="GridCell.Tab.0.bottom/67.27.2493.1413/2560.0.2560.1440@67.27.2493.1413" timestamp="1573617378377" />
+    <state width="2447" height="338" key="GridCell.Tab.0.center" timestamp="1573617378377">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2514" height="496" key="GridCell.Tab.0.center/0.631.2560.809/2560.0.2560.1440@2560.0.2560.1440" timestamp="1573258012000" />
+    <state width="2514" height="406" key="GridCell.Tab.0.center/1440.604.2560.1440/4000.604.2560.1440/0.631.1440.1929@1440.604.2560.1440" timestamp="1573451458557" />
+    <state width="2514" height="406" key="GridCell.Tab.0.center/1440.604.2560.1440/4000.604.2560.1440/0.631.1440.1929@4000.604.2560.1440" timestamp="1573410703551" />
+    <state width="2514" height="498" key="GridCell.Tab.0.center/67.27.2493.1413/2560.0.2560.1440@2560.0.2560.1440" timestamp="1573247307988" />
+    <state width="2447" height="338" key="GridCell.Tab.0.center/67.27.2493.1413/2560.0.2560.1440@67.27.2493.1413" timestamp="1573617378377" />
+    <state width="2447" height="338" key="GridCell.Tab.0.left" timestamp="1573617378377">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2514" height="496" key="GridCell.Tab.0.left/0.631.2560.809/2560.0.2560.1440@2560.0.2560.1440" timestamp="1573258012000" />
+    <state width="2514" height="406" key="GridCell.Tab.0.left/1440.604.2560.1440/4000.604.2560.1440/0.631.1440.1929@1440.604.2560.1440" timestamp="1573451458556" />
+    <state width="2514" height="406" key="GridCell.Tab.0.left/1440.604.2560.1440/4000.604.2560.1440/0.631.1440.1929@4000.604.2560.1440" timestamp="1573410703551" />
+    <state width="2514" height="498" key="GridCell.Tab.0.left/67.27.2493.1413/2560.0.2560.1440@2560.0.2560.1440" timestamp="1573247307988" />
+    <state width="2447" height="338" key="GridCell.Tab.0.left/67.27.2493.1413/2560.0.2560.1440@67.27.2493.1413" timestamp="1573617378377" />
+    <state width="2447" height="338" key="GridCell.Tab.0.right" timestamp="1573617378377">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2514" height="496" key="GridCell.Tab.0.right/0.631.2560.809/2560.0.2560.1440@2560.0.2560.1440" timestamp="1573258012000" />
+    <state width="2514" height="406" key="GridCell.Tab.0.right/1440.604.2560.1440/4000.604.2560.1440/0.631.1440.1929@1440.604.2560.1440" timestamp="1573451458557" />
+    <state width="2514" height="406" key="GridCell.Tab.0.right/1440.604.2560.1440/4000.604.2560.1440/0.631.1440.1929@4000.604.2560.1440" timestamp="1573410703551" />
+    <state width="2514" height="498" key="GridCell.Tab.0.right/67.27.2493.1413/2560.0.2560.1440@2560.0.2560.1440" timestamp="1573247307988" />
+    <state width="2447" height="338" key="GridCell.Tab.0.right/67.27.2493.1413/2560.0.2560.1440@67.27.2493.1413" timestamp="1573617378377" />
+    <state width="2447" height="338" key="GridCell.Tab.1.bottom" timestamp="1573617378377">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2514" height="496" key="GridCell.Tab.1.bottom/0.631.2560.809/2560.0.2560.1440@2560.0.2560.1440" timestamp="1573258012001" />
+    <state width="2514" height="346" key="GridCell.Tab.1.bottom/1440.604.2560.1440/4000.604.2560.1440/0.631.1440.1929@1440.604.2560.1440" timestamp="1573451458553" />
+    <state width="2514" height="346" key="GridCell.Tab.1.bottom/1440.604.2560.1440/4000.604.2560.1440/0.631.1440.1929@4000.604.2560.1440" timestamp="1573410684533" />
+    <state width="2514" height="498" key="GridCell.Tab.1.bottom/67.27.2493.1413/2560.0.2560.1440@2560.0.2560.1440" timestamp="1573247307988" />
+    <state width="2447" height="338" key="GridCell.Tab.1.bottom/67.27.2493.1413/2560.0.2560.1440@67.27.2493.1413" timestamp="1573617378377" />
+    <state width="2447" height="338" key="GridCell.Tab.1.center" timestamp="1573617378377">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2514" height="496" key="GridCell.Tab.1.center/0.631.2560.809/2560.0.2560.1440@2560.0.2560.1440" timestamp="1573258012001" />
+    <state width="2514" height="346" key="GridCell.Tab.1.center/1440.604.2560.1440/4000.604.2560.1440/0.631.1440.1929@1440.604.2560.1440" timestamp="1573451458553" />
+    <state width="2514" height="346" key="GridCell.Tab.1.center/1440.604.2560.1440/4000.604.2560.1440/0.631.1440.1929@4000.604.2560.1440" timestamp="1573410684532" />
+    <state width="2514" height="498" key="GridCell.Tab.1.center/67.27.2493.1413/2560.0.2560.1440@2560.0.2560.1440" timestamp="1573247307988" />
+    <state width="2447" height="338" key="GridCell.Tab.1.center/67.27.2493.1413/2560.0.2560.1440@67.27.2493.1413" timestamp="1573617378377" />
+    <state width="2447" height="338" key="GridCell.Tab.1.left" timestamp="1573617378377">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2514" height="496" key="GridCell.Tab.1.left/0.631.2560.809/2560.0.2560.1440@2560.0.2560.1440" timestamp="1573258012001" />
+    <state width="2514" height="346" key="GridCell.Tab.1.left/1440.604.2560.1440/4000.604.2560.1440/0.631.1440.1929@1440.604.2560.1440" timestamp="1573451458553" />
+    <state width="2514" height="346" key="GridCell.Tab.1.left/1440.604.2560.1440/4000.604.2560.1440/0.631.1440.1929@4000.604.2560.1440" timestamp="1573410684532" />
+    <state width="2514" height="498" key="GridCell.Tab.1.left/67.27.2493.1413/2560.0.2560.1440@2560.0.2560.1440" timestamp="1573247307988" />
+    <state width="2447" height="338" key="GridCell.Tab.1.left/67.27.2493.1413/2560.0.2560.1440@67.27.2493.1413" timestamp="1573617378377" />
+    <state width="2447" height="338" key="GridCell.Tab.1.right" timestamp="1573617378377">
+      <screen x="67" y="27" width="2493" height="1413" />
+    </state>
+    <state width="2514" height="496" key="GridCell.Tab.1.right/0.631.2560.809/2560.0.2560.1440@2560.0.2560.1440" timestamp="1573258012001" />
+    <state width="2514" height="346" key="GridCell.Tab.1.right/1440.604.2560.1440/4000.604.2560.1440/0.631.1440.1929@1440.604.2560.1440" timestamp="1573451458553" />
+    <state width="2514" height="346" key="GridCell.Tab.1.right/1440.604.2560.1440/4000.604.2560.1440/0.631.1440.1929@4000.604.2560.1440" timestamp="1573410684532" />
+    <state width="2514" height="498" key="GridCell.Tab.1.right/67.27.2493.1413/2560.0.2560.1440@2560.0.2560.1440" timestamp="1573247307988" />
+    <state width="2447" height="338" key="GridCell.Tab.1.right/67.27.2493.1413/2560.0.2560.1440@67.27.2493.1413" timestamp="1573617378377" />
+    <state x="4769" y="958" key="SettingsEditor" timestamp="1573411514077">
+      <screen x="4000" y="604" width="2560" height="1440" />
+    </state>
+    <state x="4769" y="958" key="SettingsEditor/1440.604.2560.1440/4000.604.2560.1440/0.631.1440.1929@4000.604.2560.1440" timestamp="1573411514077" />
+    <state x="3329" y="354" key="SettingsEditor/67.27.2493.1413/2560.0.2560.1440@2560.0.2560.1440" timestamp="1573244914755" />
+  </component>
+</project>

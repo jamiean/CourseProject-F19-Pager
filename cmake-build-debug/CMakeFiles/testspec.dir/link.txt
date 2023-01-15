@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -Wall -fno-builtin -Wl,--no-as-needed -ldl -pthread -g   CMakeFiles/testspec.dir/testspec.4.cpp.o ../libvm_app.o  -o testspec 
